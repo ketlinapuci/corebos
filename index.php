@@ -378,7 +378,7 @@ $mod_strings = return_module_language($current_language, $currentModule);
 //If DetailView, set focus to record passed in
 if ($action == 'DetailView') {
 	if (empty($_REQUEST['record'])) {
-		die('A record number must be specified to view details.');
+		die(getTranslatedString('LBL_DETAIL_VIEW'));
 	}
 	// If we are going to a detail form, load up the record now and use the record to track the viewing.
 	if (!empty($_REQUEST['record']) && !empty($current_user->id)) {

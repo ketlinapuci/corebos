@@ -1493,5 +1493,6 @@ $app_currency_strings = array(
 	'Moroccan, Dirham'		=> 'Moroccan, Dirham',
 	'Select Module To Upsert' => 'Select Module To Upsert',
 	'LBL_FIX_NOW' => 'Fix Now',
+	'LBL_DETAIL_VIEW'=>'Un numéro d`enregistrement doit être spécifié pour afficher les détails.',
 );
 ?>

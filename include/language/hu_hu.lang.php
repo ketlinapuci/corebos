@@ -1487,6 +1487,7 @@ $app_currency_strings = array(
 	'Tunisian, Dinar' => 'Tunisian, Dinar',
 	'Moroccan, Dirham' => 'Moroccan, Dirham',
 	'Costa Rica, ColÃ³n' => 'Costa Rica, Colón',
-	'El Salvador, Colones' => 'El Salvador, Colón'
+	'El Salvador, Colones' => 'El Salvador, Colón',
+	'LBL_DETAIL_VIEW'=>'A részletek megtekintéséhez rekordszámot kell megadni.',
 );
 ?>

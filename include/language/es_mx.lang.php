@@ -1542,5 +1542,6 @@ $app_currency_strings = array(
 	'Malawi, kwacha'		=> 'Malawi, kwacha',
 	'Tunisian, Dinar'		=> 'Tunisian, Dinar',
 	'Moroccan, Dirham'		=> 'Moroccan, Dirham',
+	'LBL_DETAIL_VIEW'=>'Se debe especificar un número de registro para ver los detalles.',
 );
 ?>

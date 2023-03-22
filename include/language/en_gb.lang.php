@@ -1451,6 +1451,7 @@ $app_currency_strings = array(
 	'Tunisian, Dinar' => 'Tunisian, Dinar',
 	'Moroccan, Dirham' => 'Moroccan, Dirham',
 	'Costa Rica, ColÃ³n' => 'Costa Rica, Colón',
-	'El Salvador, Colones' => 'El Salvador, Colones'
+	'El Salvador, Colones' => 'El Salvador, Colones',
+	'LBL_DETAIL_VIEW'=>'A record number must be specified to view details.',
 );
 ?>
